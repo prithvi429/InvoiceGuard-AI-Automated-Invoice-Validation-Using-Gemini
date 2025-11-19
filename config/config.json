@@ -1,0 +1,6 @@
+{
+  "gemini_api_key": "gemini_api_key",
+  "base_currency": "USD",
+  "tolerance": 0.01,
+  "rates_file": "data/exchange_rates.csv"
+}

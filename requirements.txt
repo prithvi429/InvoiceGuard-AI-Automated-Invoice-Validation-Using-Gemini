@@ -1,0 +1,13 @@
+google-generativeai
+pillow
+pandas
+openpyxl
+python-dotenv
+numpy
+rapidfuzz
+pdf2image
+pypdf
+PyMuPDF
+requests
+tqdm
+pytesseract
