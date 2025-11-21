@@ -2,5 +2,6 @@
   "gemini_api_key": "gemini_api_key",
   "base_currency": "USD",
   "tolerance": 0.01,
-  "rates_file": "data/exchange_rates.csv"
+  "rates_file": "data/exchange_rates.csv",
+  "poppler_path": "C:/Users/DELL/Downloads/poppler-windows-25.07.0-0/poppler-25.07.0/bin"
 }

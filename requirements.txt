@@ -11,3 +11,4 @@ PyMuPDF
 requests
 tqdm
 pytesseract
+pdf2image
